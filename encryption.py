@@ -1,5 +1,5 @@
 #!/bin/python3
-#https://www.hackerrank.com/challenges/encryption/problem
+#Level: MEDIUM - https://www.hackerrank.com/challenges/encryption/problem
 
 import math
 import os
